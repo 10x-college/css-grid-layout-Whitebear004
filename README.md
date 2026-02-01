@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/F3KaL0CB)
 
 
 # 🎨 Photo Gallery Layouts (CSS Grid)
@@ -27,3 +28,8 @@
 ----------
 
 **წარმატებები!**
+
+![grid-templates](./127.0.0.1_5500_index.html%20(1).png)
+![grid-templates](./127.0.0.1_5500_index.html%20(2).png)
+![grid-templates](./127.0.0.1_5500_index.html%20(3).png)
+![grid-templates](./127.0.0.1_5500_index.html%20(4).png)
